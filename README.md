@@ -97,7 +97,7 @@ urlpatterns = [
 ![image](https://github.com/user-attachments/assets/014fa429-9050-4108-a08d-96ffa003b54d)
 ![image](https://github.com/user-attachments/assets/6a6e34c9-10d3-4f06-8d93-16b3be03f3d6)
 ![Screenshot 2024-10-17 202836](https://github.com/user-attachments/assets/224961d1-0a34-4700-8017-697301e80c0e)
-![Uploading Screenshot 2024-10-17 201612.png…]()
+![Screenshot 2024-10-17 201612](https://github.com/user-attachments/assets/7ed40f8e-374a-40de-ad9f-97ddeb9b9b09)
 
 
 ## COURSERA GRADE
